@@ -5,7 +5,7 @@
 ### I am Juani Schuhmann
 - I'm a Software Engineering student at Universidad Tecnológica Nacional :argentina:
 - I use C/C++ and Python mostly.
-- Currently learning Java and JavaScript.
+- Currently learning Java.
 - I want to learn as much as I can!
 
 
