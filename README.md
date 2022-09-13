@@ -4,8 +4,6 @@
 
 ### I am Juani Schuhmann
 - I'm a Software Engineering student at Universidad Tecnológica Nacional :argentina:
-- I use C and Python mostly
-- Currently learning SQL
-- I want to learn a lot 💪
-
+- I use C, Java and Python mostly
+- Currently learning SQL, want to learn Rust sometime
 
