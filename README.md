@@ -15,7 +15,5 @@
 <br>
 
 
-<p align="right" style="font-size:10px">
-<a href="https://en.wikipedia.org/wiki/Today%27s_Menu_for_the_Emiya_Family">GIF Sauce</a>
-</p>
+
 
