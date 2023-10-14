@@ -4,7 +4,7 @@
 
 ### I'm Juani Schuhmann
 - I'm a Software Engineering student at Universidad Tecnológica Nacional :argentina:
-- I use C, Java and Python mostly
+- I use Go, C and Python mostly 
 - Want to learn Rust sometime
 - Love free and open source ❤️
 
