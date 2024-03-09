@@ -1,20 +1,18 @@
-## Hello World! 👋
+# Hey! I'm Juani 👋
 
-<img align="right" alt="GIF" src="https://1.bp.blogspot.com/-nDLygSjsvcQ/Wzr5_lFGdYI/AAAAAAABPGo/mnNWMEPVWokc_9LJdFrvapfmUHB8_2qhwCKgBGAs/s0/Omake%2BGif%2BAnime%2B-%2BEmiya-san%2BChi%2Bno%2BKyou%2Bno%2BGohan%2B-%2BEpisode%2B7%2B-%2BRin%2BFloats.gif=s0?imgmax=0" width=500 />
+<p align="center">
+  <img src="https://github.com/jschuhmann47/jschuhmann47/assets/76596375/3a40e5fd-e6ac-4d66-a60d-f0e6fe850aef"/>
+</p>
 
-### I'm Juani Schuhmann
-- I'm a Software Engineering student at Universidad Tecnológica Nacional :argentina:
-- I use Go and C mostly 
-- Want to learn Rust sometime
-- Love free and open source ❤️
+I'm a Software Engineering student at Universidad Tecnológica Nacional 🇦🇷. I'm passionated about free and open source and always learning new stuff! 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+Some of the technologies that I use are Go, C, Rust and MySQL, among some others.
 
+I'm currently working as a Backend Developer and I'm also a teaching assistant in university.
+
+## Where to find me
+
+You can contact me via [Linkedin](https://www.linkedin.com/in/juan-ignacio-schuhmann/)
 
 
 
