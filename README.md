@@ -8,7 +8,7 @@ I'm a Software Engineering student at Universidad Tecnológica Nacional 🇦🇷
 
 Some of the technologies that I use are Go, C, Rust and MySQL, among some others.
 
-I'm currently working as a Backend Developer and I'm also a teaching assistant in university.
+I'm currently working as a backend developer and I'm also a teaching assistant in university.
 
 ## Where to find me
 
