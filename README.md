@@ -10,9 +10,5 @@ Some of the technologies that I use are Go, C, Rust and MySQL, among some others
 
 I'm currently working as a backend developer and I'm also a teaching assistant in university.
 
-## Where to find me
-
-You can contact me via [Linkedin](https://www.linkedin.com/in/juan-ignacio-schuhmann/)
-
 
 
