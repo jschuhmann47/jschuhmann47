@@ -1,14 +1,20 @@
-# Hey! I'm Juani 👋
-
 <p align="center">
-  <img src="https://github.com/jschuhmann47/jschuhmann47/assets/76596375/3a40e5fd-e6ac-4d66-a60d-f0e6fe850aef"/>
+  <img src="https://tenor.com/view/yuki-nagato-mouse-wave-yuki-nagato-mouse-wave-mouse-wave-gif-18377220.gif"/>
+  <br>
+  <samp>Hello there</samp>
 </p>
 
-I'm a Software Engineering student at Universidad Tecnológica Nacional 🇦🇷. I'm passionated about free and open source and always learning new stuff! 
+I'm Juani and I'm a Software Engineering student at Universidad Tecnológica Nacional 🇦🇷
 
-Some of the technologies that I use are Go, C, Rust and MySQL, among some others.
+Passionated about free and open source and always learning new stuff :P
 
-I'm currently working as a backend developer and I'm also a teaching assistant in university.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,c,rust,docker,elixir,nodejs,ts,go,haskell,java,mysql" />
+  </a>
+</p>
+
+
 
 
 
