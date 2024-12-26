@@ -10,7 +10,7 @@ Passionated about free and open source and always learning new stuff :P
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,c,rust,docker,elixir,nodejs,ts,go,haskell,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=linux,git,c,rust,docker,elixir,nodejs,ts,go,haskell,java,mysql,kotlin" />
   </a>
 </p>
 
