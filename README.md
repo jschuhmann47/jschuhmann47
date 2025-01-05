@@ -4,7 +4,7 @@
   <samp>Hello there</samp>
 </p>
 
-I'm Juani and I'm a Software Engineering student at Universidad Tecnológica Nacional 🇦🇷
+I'm Juani and I'm a Software Engineer from Universidad Tecnológica Nacional 🇦🇷
 
 Passionated about free and open source and always learning new stuff :P
 
