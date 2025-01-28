@@ -15,7 +15,7 @@ I'm a Software Engineer from Argentina 🇦🇷 who's passionate about GNU/Linux
 
 ### 👀 [Repos](https://github.com/jschuhmann47?tab=repositories)
 Some of my projects are:
-- [pngme](https://github.com/jschuhmann47/pngme): an small program that can encode messages in png files
+- [pngme](https://github.com/jschuhmann47/pngme): an small program that can encode messages in png files, made in Rust
 - A Redis-like [distributed database](https://github.com/jschuhmann47/tp-iasc) in Elixir
 - A [Java](https://github.com/jschuhmann47/tp-dds) server-side webapp
 - A webapp in TypeScript made for our university: [backend](https://github.com/jschuhmann47/projectMap-Backend) and [frontend](https://github.com/jschuhmann47/projectMap-Frontend)
