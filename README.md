@@ -7,7 +7,7 @@ I'm a Software Engineer from Argentina 🇦🇷 who's passionate about GNU/Linux
 **Languages I can speak**: Spanish, English <br>
 **Interests**: Programming, Linux and open-source! <br>
 **Favorite series**: [Bocchi The Rock!](https://myanimelist.net/anime/47917/Bocchi_the_Rock) <br>
-**Favorite book**: [Mistborn](https://myanimelist.net/anime/47917/Bocchi_the_Rock) <br>
+**Favorite book**: [Mistborn](https://en.wikipedia.org/wiki/Mistborn) <br>
 
 ### 📗 Organizations I contribute on
 - [Educabot](https://educabot.com/)
