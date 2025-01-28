@@ -15,7 +15,13 @@ I'm a Software Engineer from Argentina 🇦🇷 who's passionate about GNU/Linux
 
 ### 👀 [Repos](https://github.com/jschuhmann47?tab=repositories)
 Some of my projects are:
-- TODO
+- [pngme](https://github.com/jschuhmann47/pngme): an small program that can encode messages in png files
+- A Redis-like [distributed database](https://github.com/jschuhmann47/tp-iasc) in Elixir
+- A [Java](https://github.com/jschuhmann47/tp-dds) server-side webapp
+- A webapp in TypeScript made for our university: [backend](https://github.com/jschuhmann47/projectMap-Backend) and [frontend](https://github.com/jschuhmann47/projectMap-Frontend)
+- A simple [parser](https://github.com/jschuhmann47/parser-ssl) in C
+- An [small OS simulation](https://github.com/jschuhmann47/tp-operativos) in C
+- A [mobile app](https://github.com/UTN-FRBA-Mobile/GeoGenius) for tourism made in Kotlin/Compose
 
 ### 💻 Skills
 Some of the technologies that I used either for university, personal research or work.
@@ -28,7 +34,7 @@ Some of the technologies that I used either for university, personal research or
 
 
 ### 🐧 Linux Distribution in Use
-Currently using Mint! 💚
+Currently using Mint 💚
 
 ### Thanks for visiting my profile!
 <p align="center">
