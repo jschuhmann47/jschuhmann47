@@ -1,11 +1,11 @@
 # 👋 Hey!
 
 <b>My name is Juani, </b>
-I'm a Software Engineer from Argentina 🇦🇷 who's passionate about GNU/Linux, programming and anime!
+I'm a Software Engineer from Argentina 🇦🇷 who's passionate about GNU/Linux, programming and anime
 
 ### 🙋‍♂️ About me
 **Languages I can speak**: Spanish, English <br>
-**Interests**: Programming, Linux and open-source! <br>
+**Interests**: Programming, Linux and open-source <br>
 **Favorite series**: [Bocchi The Rock!](https://myanimelist.net/anime/47917/Bocchi_the_Rock) <br>
 **Favorite book**: [Mistborn](https://en.wikipedia.org/wiki/Mistborn) <br>
 
