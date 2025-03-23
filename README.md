@@ -17,9 +17,8 @@ I'm a Software Engineer from Argentina 🇦🇷 who's passionate about GNU/Linux
 Some of my projects are:
 - An [API about music albums](https://github.com/jschuhmann47/music-album), made in Rust
 - A Redis-like [distributed database](https://github.com/jschuhmann47/tp-iasc) in Elixir
-- A [Java](https://github.com/jschuhmann47/tp-dds) server-side webapp
-- A webapp in TypeScript made for our university: [backend](https://github.com/jschuhmann47/projectMap-Backend) and [frontend](https://github.com/jschuhmann47/projectMap-Frontend)
-- A simple [parser](https://github.com/jschuhmann47/parser-ssl) in C
+- A [Java](https://github.com/jschuhmann47/tp-dds) server-side webapp made to track the carbon footprint of companies and employees
+- A webapp in TypeScript made for our university: [backend](https://github.com/jschuhmann47/projectMap-Backend) and [frontend](https://github.com/jschuhmann47/projectMap-Frontend). You can use it to create your own OKRs, SWOTs and more!
 - An [small OS simulation](https://github.com/jschuhmann47/tp-operativos) in C
 - A [mobile app](https://github.com/UTN-FRBA-Mobile/GeoGenius) for tourism made in Kotlin/Compose
 
