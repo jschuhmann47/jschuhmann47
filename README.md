@@ -9,7 +9,7 @@ I'm a Software Engineer from Argentina 🇦🇷 who's passionate about GNU/Linux
 **Favorite book**: [Mistborn](https://en.wikipedia.org/wiki/Mistborn) <br>
 
 ### 📗 Organizations I contribute on
-- [Educabot](https://educabot.com/)
+- [Mercado Libre](https://github.com/mercadolibre)
 - [Universidad Tecnológica Nacional](https://www.frba.utn.edu.ar/)
 
 ### 👀 [Repos](https://github.com/jschuhmann47?tab=repositories)
