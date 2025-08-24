@@ -32,7 +32,7 @@ Some of the technologies that I used either for university, personal research or
 
 
 ### 🐧 Linux Distribution in Use
-Currently using Mint 💚
+Currently using OpenSUSE
 
 ### Thanks for visiting my profile!
 <p align="center">
